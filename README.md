@@ -1,6 +1,6 @@
 An easy-to-use and a thread-safe python class for generating all possible strings of a given length from a given set of characters.
 
-Example:
+Usage Example:
 ```
 from genstrings import GenStrings
 
